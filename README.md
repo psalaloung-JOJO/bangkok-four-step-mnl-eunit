@@ -1,4 +1,4 @@
-# Bangkok Four-Step Model: Comparing between MNL and eUnit mode choice behaviour model
+# Bangkok Four-Step Model: MNL vs eUnit Mode Choice
 
 A four-step travel demand model built on a **real Bangkok road network**
 from OpenStreetMap, comparing two mode choice models:

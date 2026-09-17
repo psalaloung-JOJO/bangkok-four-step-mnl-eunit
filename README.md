@@ -22,7 +22,7 @@ flowchart TD
     D --> F[eUnit]
     E --> G[4. Traffic Assignment]
     F --> G
-    G --> H[Compare Results]
+    G --> H[Compare Mode Shares & Travel Times]
 ```
 
 ## Repository Structure

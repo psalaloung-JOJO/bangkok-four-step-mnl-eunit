@@ -9,4 +9,4 @@ from OpenStreetMap, comparing two mode choice models:
 **Goal:** test which model better recovers known travel behaviour,
 using synthetic demand on a real network.
 
-> 🚧 Status: work in progress
+> 🚧 Status: work in progress 
